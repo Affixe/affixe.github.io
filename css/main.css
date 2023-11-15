@@ -41,7 +41,7 @@ aside {
 section {
     grid-column-start: 2;
     column-span: 20;
-    height: 90%;
+    height: 70%;
     overflow: scroll;
     scrollbar-color: black black;
     scroll-behavior: smooth;
@@ -62,7 +62,7 @@ section::-webkit-scrollbar {
 }
 
 article {
-    padding: 1em 1em 1em;
+    padding: 1.5em 1em 1.5em;
 
     @media (max-width: 1024px) {
         padding: 0.5em;
