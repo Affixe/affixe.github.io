@@ -46,6 +46,7 @@ section {
     overflow: scroll;
     scrollbar-color: black black;
     scroll-behavior: smooth;
+    overflow-x: hidden;
     margin-bottom: 3em;
 
     @media (max-width: 1024px) {
