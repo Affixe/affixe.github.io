@@ -33,6 +33,10 @@ section {
     padding-right: 0.5em;
 }
 
+section {
+    scrollbar-color: #333333 #333333;
+}
+
 section::-webkit-scrollbar {
     width: 0.5em;
     background-color: #333;
